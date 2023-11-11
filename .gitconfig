@@ -1,0 +1,17 @@
+[user]
+	name = Mauran
+	email = thomas.mauran@etu.umontpellier.fr
+[core]
+	autocrlf = false
+	safecrlf = true
+[alias]
+	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+	type = cat-file -t
+  	dump = cat-file -p
+	s = status
+	co = checkout
+	c = commit -s
+[pull]
+	rebase = true
+[commit]
+	gpgsign = true

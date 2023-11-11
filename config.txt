@@ -1,0 +1,88 @@
+/configver 2
+/panels uint32 1
+/panels/dark-mode true
+/panels/panel-0/autohide-behavior uint32 0
+/panels/panel-0/background-image '/home/thomas/Downloads/997479.png'
+/panels/panel-0/background-rgba [<0.129412>, <0.129412>, <0.129412>, <0.65000000000000002>]
+/panels/panel-0/background-style uint32 1
+/panels/panel-0/disable-struts false
+/panels/panel-0/enter-opacity uint32 100
+/panels/panel-0/icon-size uint32 0
+/panels/panel-0/leave-opacity uint32 100
+/panels/panel-0/length uint32 100
+/panels/panel-0/length-adjust true
+/panels/panel-0/mode uint32 0
+/panels/panel-0/nrows uint32 1
+/panels/panel-0/output-name 'Automatic'
+/panels/panel-0/plugin-ids [<15>, <1>, <22>, <2>, <11>, <13>, <12>, <3>, <5>, <4>, <18>, <16>, <6>, <9>, <14>, <8>, <10>]
+/panels/panel-0/position 'p=6;x=1280;y=27'
+/panels/panel-0/position-locked false
+/panels/panel-0/size uint32 35
+/panels/panel-0/span-monitors false
+/plugins/plugin-1 'whiskermenu'
+/plugins/plugin-10 'clock'
+/plugins/plugin-10/digital-format ' %d %b, %H:%M '
+/plugins/plugin-10/mode uint32 2
+/plugins/plugin-11 'launcher'
+/plugins/plugin-11/items [<'16986943731.desktop'>]
+/plugins/plugin-12 'launcher'
+/plugins/plugin-12/items [<'16986956082.desktop'>]
+/plugins/plugin-13 'launcher'
+/plugins/plugin-13/items [<'16987371781.desktop'>]
+/plugins/plugin-14 'cpugraph'
+/plugins/plugin-15 'separator'
+/plugins/plugin-15/style uint32 0
+/plugins/plugin-16 'xfce4-notes-plugin'
+/plugins/plugin-18 'weather'
+/plugins/plugin-18/cache-max-age 172800
+/plugins/plugin-18/forecast/days 5
+/plugins/plugin-18/forecast/layout 1
+/plugins/plugin-18/location/latitude '43.610700'
+/plugins/plugin-18/location/longitude '3.880900'
+/plugins/plugin-18/location/name 'Montpellier, France'
+/plugins/plugin-18/msl 44
+/plugins/plugin-18/offset '+01:00'
+/plugins/plugin-18/power-saving true
+/plugins/plugin-18/round true
+/plugins/plugin-18/scrollbox/animate true
+/plugins/plugin-18/scrollbox/color 'rgba(0,0,0,0)'
+/plugins/plugin-18/scrollbox/lines 1
+/plugins/plugin-18/scrollbox/show true
+/plugins/plugin-18/scrollbox/use-color false
+/plugins/plugin-18/single-row true
+/plugins/plugin-18/theme-dir '/usr/share/xfce4/weather/icons/liquid'
+/plugins/plugin-18/timezone 'Europe/Paris'
+/plugins/plugin-18/tooltip-style 1
+/plugins/plugin-18/units/altitude 0
+/plugins/plugin-18/units/apparent-temperature 0
+/plugins/plugin-18/units/precipitation 0
+/plugins/plugin-18/units/pressure 0
+/plugins/plugin-18/units/temperature 0
+/plugins/plugin-18/units/windspeed 0
+/plugins/plugin-2 'separator'
+/plugins/plugin-2/expand false
+/plugins/plugin-2/style uint32 0
+/plugins/plugin-22 'pager'
+/plugins/plugin-22/miniature-view false
+/plugins/plugin-22/numbering false
+/plugins/plugin-22/rows uint32 1
+/plugins/plugin-22/workspace-scrolling false
+/plugins/plugin-3 'launcher'
+/plugins/plugin-3/items [<'16991012181.desktop'>]
+/plugins/plugin-4 'separator'
+/plugins/plugin-4/expand true
+/plugins/plugin-4/style uint32 0
+/plugins/plugin-5 'launcher'
+/plugins/plugin-5/items [<'16991012312.desktop'>]
+/plugins/plugin-6 'statusnotifier'
+/plugins/plugin-6/hidden-items [<'toolbox'>]
+/plugins/plugin-6/known-items [<'toolbox'>, <'nm-applet'>, <'blueman'>]
+/plugins/plugin-6/square-icons false
+/plugins/plugin-8 'power-manager-plugin'
+/plugins/plugin-9 'pulseaudio'
+/plugins/plugin-9/enable-keyboard-shortcuts true
+/plugins/plugin-9/enable-mpris true
+/plugins/plugin-9/enable-wnck true
+/plugins/plugin-9/mixer-command 'pavucontrol'
+/plugins/plugin-9/mpris-players 'firefox.instance10008;firefox.instance117754;firefox.instance174548;firefox.instance3917;firefox.instance4009;firefox.instance4293;firefox.instance4389;firefox.instance4458;firefox.instance4737;firefox.instance4744;firefox.instance4809;firefox.instance4965;firefox.instance4995;firefox.instance5293;firefox.instance5310;firefox.instance5661;firefox.instance5740;firefox.instance6124;firefox.instance6870;firefox.instance7066;firefox.instance8707;firefox.instance8735;firefox.instance88329;firefox.instance9556;parole;rhythmbox'
+/plugins/plugin-9/show-notifications true
